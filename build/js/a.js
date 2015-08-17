@@ -1,0 +1,1 @@
+function func(){var n=1,o=2;return n+o}function func2(){console.log(22)}console.log("a.js init");
